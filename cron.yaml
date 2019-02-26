@@ -1,0 +1,5 @@
+cron:
+- description: "Send a tweet"
+  url: /admin/tweet
+  schedule: every 351 minutes
+  timezone: America/New_York
